@@ -1,16 +1,14 @@
-### Hi there 👋
+### Kelsey Glenn
+Howdy, I'm Kelsey. 
 
-<!--
-**kelseyfglenn/kelseyfglenn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a data scientist with a background in research analysis and education. I'm looking to work with interesting people on interesting problems, so if that sounds like something you've got and I sound like someone you need, I'd love to hear from you.
 
-Here are some ideas to get you started:
+#### Contact Information: 
+kelseyfglenn@gmail.com </br>
+[LinkedIn](https://www.linkedin.com/in/kfglenn/) </br>
+[Résumé]() </br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Project Directory:
+* [Twitter Bot Detection (Gradient Boosted Classification)](../../../twitter_bots) 
+* [Hip-Hop Genre Clustering (NLP, Topic Modeling, Clustering)](../../../rapgeo)
+* [Synopsis Generation w/ GPT-2 (Transfer Learning, Topic Modeling, Regression)](../../../synopses)
