@@ -4,9 +4,9 @@ Howdy, I'm Kelsey.
 I'm a data scientist with a background in research analysis and education. I'm looking to work with interesting people on interesting problems, so if that sounds like something you've got and I sound like someone you need, I'd love to hear from you.
 
 #### Contact Information: 
-kelseyfglenn@gmail.com </br>
+[Email](mailto:kelseyfglenn@gmail.com) </br>
 [LinkedIn](https://www.linkedin.com/in/kfglenn/) </br>
-[Résumé]() </br>
+[Résumé](https://cdn.buttercms.com/pQjvJr0TPOOsRyP6aK1J) </br>
 
 #### Project Directory:
 * [Twitter Bot Detection (Gradient Boosted Classification)](../../../twitter_bots) 
